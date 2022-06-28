@@ -1,0 +1,19 @@
+.highlight {
+  background-color: rgb(216, 189, 98);
+}
+
+.gold-text {
+  color: darkgoldenrod;
+  font-size: 5rem;
+}
+
+.error {
+  background-color: lightcoral;
+  border: red;
+}
+
+* {
+  color: #fff;
+  background-color: #2d2d2e;
+  font-size: 3rem;
+}
